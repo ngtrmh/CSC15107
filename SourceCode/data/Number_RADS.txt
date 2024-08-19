@@ -1,0 +1,182 @@
+KIỂM TRA TRẦM CẢM TRẺ VỊ THÀNH NIÊN RADS (10 - 20 tuổi)
+30
+1. Tôi cảm thấy hạnh phúc
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+2. Tôi thấy lo lắng về chuyện học
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+3. Tôi cảm thấy cô đơn
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+4. Tôi cảm thấy cha mẹ không thích tôi
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+5. Tôi thấy mình là người quan trọng
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+6. Tôi muốn xa lánh, trốn tránh mọi người
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+7. Tôi cảm thấy buồn chán
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+8. Tôi cảm thấy muốn khóc
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+9. Tôi có cảm giác chẳng ai quan tâm đến tôi
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+10. Tôi thích cười đùa với mọi người
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+11. Tôi có cảm giác cơ thể rệu rã, thiếu sinh lực
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+12. Tôi có cảm giác mình được yêu quý
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+13. Tôi cảm thấy mình giống như kẻ bỏ chạy
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+14. Tôi cảm thấy mình đang tự làm khổ mình
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+15. Tôi cảm thấy những người khác không thích tôi
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+16. Tôi cảm thấy bực bội
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+17. Tôi cảm thấy cuộc sống bất công với tôi
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+18. Tôi cảm thấy mệt mỏi
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+19. Tôi cảm thấy mình là một kẻ tồi tệ
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+20. Tôi cảm thấy mình là một kẻ vô tích sự
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+21. Tôi thấy mình là một kẻ đáng thương
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+22. Tôi thấy phát điên lên về mọi thứ
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+23. Tôi thích trò chuyện với mọi người
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+24. Tôi trằn trọc khó ngủ (hoặc Tôi thấy mình ngủ nhiều)
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+25. Tôi thích vui đùa
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+26. Tôi cảm thấy lo lắng
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+27. Tôi có cảm giác như bị đau dạ dày
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+28. Tôi cảm thấy cuộc sống tẻ nhạt, vô vị
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+29. Tôi ăn thấy ngon miệng
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian
+30. Tôi thất vọng, không muốn làm gì cả
+4
+0 = Hầu như không
+1 = Thỉnh thoảng
+2 = Phần lớn thời gian
+3 = Hầu hết hoặc tất cả thời gian

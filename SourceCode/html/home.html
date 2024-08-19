@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="../styles/home.css" />
+  </head>
+  <body>
+    <div class="tab_bar">
+      <a href="home.html" class="active">Giới thiệu</a>
+      <a href="testMode.html">Kiểm tra</a>
+    </div>
+    <div class="home-page">
+      <h1>KHẢO SÁT SỨC KHỎE TÂM THẦN</h1>
+      <p>
+        Hỗ trợ thực hiện các bài kiểm tra đánh giá sức khỏe tâm thần. Có 2 dạng
+        bài test chính: YES/NO và Number
+      </p>
+      <div class="working">
+        <h2>Cách thực hiện:</h2>
+        <ul>
+          <li>
+            <h3>Bước 1</h3>
+            <p>Chọn tab Kiểm tra → Chọn tên bài test muốn thực hiện</p>
+          </li>
+          <li>
+            <h3>Bước 2</h3>
+            <ul>
+              <li>
+                <h4>Đối với bài test YES/NO</h4>
+                <p>
+                  + Bạn có 2 lựa chọn công cụ hỗ trợ thực hiện bài test: với
+                  Đồng xu hoặc với Thẻ.
+                </p>
+                <p>
+                  + Bạn cần trung thực tuân thủ các quy tắc sau đây để đảm bảo
+                  việc khảo sát đảm bảo hiệu quả. Ở mỗi câu hỏi:
+                </p>
+                <ul>
+                  <li>
+                    <strong>Với Đồng xu:</strong>
+                    <ul>
+                      <li>
+                        Tung đồng xu lần 1: nếu đồng xu HEAD thì trả lời câu hỏi
+                        với sự thật của chính bạn; nếu đồng xu TAIL thì thực
+                        hiện tung đồng xu lần 2.
+                      </li>
+                      <li>
+                        Tung đồng xu lần 2: nếu đồng xu HEAD thì trả lời YES;
+                        nếu đồng xu TAIL thì trả lời NO.
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <strong>Với Thẻ:</strong> Bạn lựa chọn 1 thẻ và trả lời sự
+                    thật về câu hỏi được ghi trong thẻ
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <h4>Đối với bài test Number</h4>
+                <p>
+                  + Bạn thực hiện trả lời sự thật của chính bạn ở tất cả các câu
+                  hỏi.
+                </p>
+                <p>
+                  + Sau khi bạn hoàn thành bài test và bấm Submit, web sẽ tự
+                  động tính toán và thêm nhiễu để bảo vệ sự riêng tư của bạn.
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3>Bước 3</h3>
+            <p>
+              Sau khi hoàn thành bài test, web sẽ tự động tính toán và đưa ra
+              đánh giá về mức độ sức khỏe tinh thần của bạn.
+            </p>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <script src="../logic/home.js"></script>
+  </body>
+</html>

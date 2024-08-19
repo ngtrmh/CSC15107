@@ -1,0 +1,11 @@
+5
+Không biểu hiện trầm cảm
+0-7
+Trầm cảm nhẹ
+8–13
+Trầm cảm vừa
+14–18
+Trầm cảm nặng
+19–22
+Trầm cảm rất nặng.
+23-68

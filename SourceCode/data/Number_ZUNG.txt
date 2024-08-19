@@ -1,0 +1,122 @@
+KIỂM TRA LO ÂU ZUNG
+20
+1. Tôi cảm thấy nóng nảy và lo âu hơn thường lệ
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+2. Tôi cảm thấy sợ vô cớ
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+3. Tôi dễ bối rối và cảm thấy hoảng sợ
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+4. Tôi cảm thấy như bị ngã và vỡ ra từng mảnh
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+5. Tôi cảm thấy mọi thứ đều tốt và không có điều gì xấu sẽ xảy ra
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+6. Tay và chân tôi lắc lư, run lên
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+7. Tôi đang khó chịu vì đau đầu, đau cổ, đau lưng.
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+8. Tôi cảm thấy yếu và dễ mệt mỏi.
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+9. Tôi cảm thấy bình tĩnh và có thể ngồi yên một cách dễ dàng
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+10. Tôi cảm thấy tim mình đập nhanh
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+11. Tôi đang khó chịu vì cơn hoa mắt chóng mặt
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+12. Tôi bị ngất và có lúc cảm thấy gần như thế
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+13. Tôi có thể thở ra, hít vào một cách dễ dàng
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+14. Tôi cảm thấy tê buốt, như có kiến bò ở đầu ngón tay, ngón chân
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+15. Tôi đang khó chịu vì đau dạ dày và đầy bụng.
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+16. Tôi luôn cần phải đi đái
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+17. Bàn tay tôi thường khô và ấm
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+18. Mặt tôi thường nóng và đỏ
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+19. Tôi ngủ dễ dàng và luôn có một giấc ngủ tốt
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian
+20. Tôi thường có ác mộng
+4
+1 = Không có
+2 = Đôi khi
+3 = Phần lớn thời gian
+4 = Hầu hết hoặc tất cả thời gian

@@ -1,0 +1,100 @@
+/* testMode.css */
+body {
+  font-family: "Times New Roman", sans-serif;
+  background-color: #fff3e0;
+  margin: 0;
+  padding: 0;
+}
+
+.test-page {
+  position: relative;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.test-title {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.test-mainTitle {
+  flex: 3;
+  padding: 10px;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #da7604;
+}
+
+.test-listTitle {
+  flex: 1;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tab-container {
+  display: flex;
+}
+
+.tab-list {
+  flex: 1;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.tab-content {
+  flex: 3;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+
+.modal .tab-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  font-size: 14px;
+  margin: 20px 0;
+}
+
+.modal button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: #ddd;
+}
+
+.question-block {
+  font-size: 14px;
+}
+
+.score-input {
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

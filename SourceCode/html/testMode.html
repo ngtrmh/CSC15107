@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test Mode</title>
+    <link rel="stylesheet" href="../styles/home.css" />
+    <link rel="stylesheet" href="../styles/testMode.css" />
+  </head>
+  <body>
+    <div class="tab_bar">
+      <a href="home.html">Giới thiệu</a>
+      <a href="testMode.html" class="active">Kiểm tra</a>
+    </div>
+    <div class="test-page">
+      <div class="test-title">
+        <div class="test-listTitle"></div>
+        <div class="test-mainTitle">KIỂM TRA</div>
+      </div>
+      <div class="tab-container">
+        <div class="tab-list">
+          <ul id="test-tabs"></ul>
+        </div>
+        <div class="tab-content">
+          <div id="test-content"></div>
+          <div id="test-answers"></div>
+        </div>
+      </div>
+    </div>
+    <script src="../logic/testMode.js"></script>
+    <script src="../logic/test_number.js"></script>
+    <script src="../logic/test_yesno.js"></script>
+  </body>
+</html>

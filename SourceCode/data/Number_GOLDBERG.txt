@@ -1,0 +1,98 @@
+KIỂM TRA RỐI LOẠN LƯỠNG CỰC GOLDBERG
+12
+1. Đôi lúc bản thân có tâm trạng rất tốt, năng động và làm việc rất hiệu quả
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+2. Đôi khi nói nhiều, nói nhanh hơn bình thường và thường xuyên chuyển chủ đề liên tục trong các cuộc trò chuyện.
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+3. Tâm trạng bất ổn, dễ bị cáu kỉnh và tức giận
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+4. Có một hoặc nhiều giai đoạn rất hứng thú trong đời sống tình dục và tăng tần suất quan hệ rõ rệt
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+5. Có những lúc đạt được thành công rực rỡ trong công việc và thay đổi công việc nhiều lần
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+6. Đôi khi có những giai đoạn buồn chán không rõ lý do và cũng có giai đoạn tâm trạng rất vui vẻ, lạc quan và sang tạo trong công việc
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+7. Có những giai đoạn lạc quan, hứng thú nhưng cũng có giai đoạn tuyệt vọng và bi quan không thể hiểu rõ nguyên do
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+8. Có những lúc vừa cảm thấy chán nản vừa cảm thấy hưng phấn
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+9. Đôi khi tự tin thái quá nhưng cũng có khi thiếu tự tin về bản thân
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+10. Bản thân có những lúc rất tức giận và giữ thái độ thù địch với mọi người mà không rõ lý do
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+11. Có những lúc muốn hòa nhập vào những nơi đông người, náo nhiệt nhưng cũng có khi muốn yên tĩnh, có xu hướng giam mình trong phòng và sống tách biệt với mọi người
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên
+12. Có khi cười đùa vui vẻ quá mức nhưng cũng có khi khóc lóc, buồn bã sâu sắc không rõ lý do
+6
+0 = Không bao giờ
+1 = Chỉ một chút
+2 = Thỉnh thoảng
+3 = Trung bình
+4 = Khá thường xuyên
+5 = Rất thường xuyên

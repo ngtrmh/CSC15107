@@ -1,0 +1,102 @@
+KIỂM TRA TRẦM CẢM HAMILTON (HAM-D)
+17
+Câu 1 – Khí sắc trầm (thái độ rầu rĩ, luôn có cảm giác buồn bã, hay khóc lóc và bi quan về tương lai)
+5
+0 = Không có triệu chứng
+1 = Lo lắng nhất thời hoặc đôi khi có cảm giác buồn bã, rầu rĩ nhưng không quá rõ rệt
+2 = Đôi khi khóc lóc, bi quan và có cảm giác đau khổ không rõ lý do
+3 = Khóc lóc liên tục, tuyệt vọng
+4 = Xuất hiện đầy đủ các triệu chứng với mức độ nghiêm trọng và rõ rệt
+Câu 2 – Cảm giác tội lỗi
+5
+0 = Không xuất hiện cảm giác tội lỗi
+1 = Hối hận về một số hành vi của bản thân (chủ yếu là chuyện lặt vặt), tự chỉ trích bản thân và cho rằng bản thân luôn làm những người xung quanh thất vọng
+2 = Tự buộc tội bản thân và dành nhiều thời gian để nghiền ngẫm về tội lỗi của chính mình
+3 = Xuất hiện hoang tưởng bị buộc tội và cho rằng bản thân mắc bệnh là do bị trừng phạt về những lỗi lầm đã gây ra
+4 = Xuất hiện ảo giác bị buộc tội (xuất hiện ảo thị đe dọa, ảo thanh buộc tội, tố cáo và sai khiến bản thân tự trừng phạt về tội lỗi của chính mình)
+Câu 3 – Ý nghĩ, hành vi tự sát
+5
+0 = Không có ý nghĩ tự sát
+1 = Bi quan trong cuộc sống và cảm thấy cuộc sống không có bất cứ ý nghĩa gì
+2 = Xuất hiện ý tưởng tự sát thoáng qua và tin rằng cái chết là giải pháp tốt nhất cho bản thân
+3 = Ý tưởng tự sát xuất hiện một cách rõ rệt, bệnh nhân nghĩ về cái chết và đã có dự định tự sát
+4 = Đã chuẩn bị kế hoạch tự sát hoặc có hành vi tự sát nhưng bất thành
+Câu 4 – Mất ngủ giai đoạn đầu (trằn trọc, khó đi vào giấc ngủ)
+3
+0 = Không gặp phải tình trạng trên
+1 = Đôi khi
+2 = Thường xuyên khó ngủ, trằn trọc và mất nhiều thời gian mới có thể đi vào giấc ngủ
+Câu 5 – Mất ngủ giai đoạn giữa (có cảm giác bồn chồn suốt đêm, hay than phiền bị quấy rầy khi ngủ, tỉnh giấc giữa đêm và rất khó để ngủ lại)
+3
+0 = Không có triệu chứng
+1 = Đôi khi
+2 = Thường xuyên bị mất ngủ ở giai đoạn giữa, chất lượng giấc ngủ kém
+Câu 6 – Mất ngủ giai đoạn cuối (dậy từ rất sớm và không thể ngủ lại dù rất cố gắng)
+3
+0 = Không gặp phải tình trạng mất ngủ giai đoạn cuối
+1 = Đôi khi, thỉnh thoảng
+2 = Thường xuyên
+Câu 7 – Công việc và các hoạt động
+5
+0 = Công việc, học tập và các hoạt động thường ngày vẫn diễn ra bình thường, không gặp bất cứ khó khăn gì
+1 = Chán nản, uể oải, thiếu năng nổ và thụ động trong công việc lẫn các hoạt động thường ngày
+2 = Mất đi sự hứng thú trong các sở thích, hoạt động từng yêu thích và giảm hoạt động xã hội
+3 = Hiệu suất công việc giảm rõ rệt
+4 = Không thể làm bất cứ việc gì, kể cả các hoạt động thường ngày cũng quá sức đối với người bệnh. Bệnh nhân thường phải từ bỏ công việc do không thể hoàn thành các nhiệm vụ được giao
+Câu 8 – Chậm chạp (chậm chạp trong mọi hoạt động, lời nói, tư duy, sững sờ và lãnh đạm)
+4
+0 = Không có biểu hiện chậm chạp ở bất cứ khía cạnh nào
+1 = Có biểu hiện chậm chạp nhẹ trong lúc thăm khám
+2 = Hành vi, lời nói rất chậm chạp trong quá trình thăm khám
+3 = Hoàn toàn sừng sỡ trong quá trình thăm khám
+Câu 9 – Kích động (có cảm giác bồn chồn không yên kết hợp với lo âu)
+3
+0 = Không gặp phải triệu chứng kể trên
+1 = Đôi khi/ thỉnh thoảng
+2 = Thường xuyên
+Câu 10 – Tâm lý lo âu
+5
+0 = Không có tâm lý lo âu
+1 = Có biểu hiện cáu gắt và căng thẳng
+2 = Lo lắng, bất an về những điều nhỏ nhặt
+3 = Bứt rứt, lo lắng không thôi
+4 = Hoảng sợ
+Câu 11 – Triệu chứng cơ thể do lo âu (khó thở, đau đầu, khó tiêu, tăng nhịp tim)
+5
+0 = Không có triệu chứng
+1 = Có triệu chứng nhưng mức độ nhẹ và không rõ rệt
+2 = Triệu chứng rõ rệt, dễ nhận thấy
+3 = Các triệu chứng cơ thể do lo lắng xảy ra thường xuyên và mức độ nghiêm trọng
+4 = Triệu chứng nặng dẫn đến mất khả năng làm việc
+Câu 12 – Các triệu chứng cơ thể liên quan đến ruột và dạ dày (táo bón, nặng bụng, khó tiêu và mất cảm giác ngon miệng)
+3
+0 = Không có bất cứ triệu chứng gì
+1 = Triệu chứng xuất hiện với mức độ nhẹ
+2 = Triệu chứng rõ rệt, mức độ nghiêm trọng
+Câu 13 – Các triệu chứng cơ thể chung (giảm năng lượng, mệt mỏi, nặng nề ở đầu, lưng, chân tay và đau nhức lưng lan tỏa)
+3
+0 = Không có triệu chứng
+1 = Triệu chứng ở mức độ nhẹ
+2 = Triệu chứng rõ rệt với mức độ nghiêm trọng, ảnh hưởng nhiều đến cuộc sống
+Câu 14 – Các triệu chứng sinh dục (rối loạn kinh nguyệt và giảm hứng thú, ham muốn)
+3
+0 = Không có triệu chứng
+1 = Triệu chứng mức độ nhẹ
+2 = Triệu chứng rõ rệt, mức độ nghiêm trọng
+Câu 15 – Tình trạng nghi bệnh
+5
+0 = Không có biểu hiện nghi ngờ bản thân mắc bệnh
+1 = Quan tâm quá mức đến cơ thể
+2 = Quan tâm, lo lắng về sức khỏe của bản thân
+3 = Phàn nàn nhiều về vấn đề tình trạng sức khỏe của bản thân
+4 = Xuất hiện hoang tưởng nghi bệnh (tin rằng bản thân mắc bệnh gì đó rất nghiêm trọng dù thực tế không có bất cứ triệu chứng nào bất thường)
+Câu 16 – Sút Cân
+3
+0 = Cân nặng bình thường hoặc tăng/ giảm nhẹ không đáng kể
+1 = Có hiện tượng sút cân nhẹ
+2 = Sút cân nhiều chỉ trong một thời gian ngắn, cơ thể suy nhược và xanh xao
+Câu 17 – Nhận thức (được đánh giá dựa vào trình độ học vấn và nền văn hóa của từng bệnh nhân)
+3
+0 = Không có biểu hiện mất nhận thức
+1 = Mất một phần nhận thức hoặc có hiện tượng nhận thức không rõ ràng
+2 = Mất nhận thức

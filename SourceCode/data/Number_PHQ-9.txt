@@ -1,0 +1,56 @@
+KIỂM TRA TRẦM CẢM PHQ-9
+9
+1. Ít hứng thú hoặc là không có niềm vui thích làm việc gì
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+2. Cảm thấy chán nản kiệt sức, chán nản, hay tuyệt vọng
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+3. Khó ngủ, ngủ không lâu hoặc ngủ quá nhiều
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+4. Cảm thấy mệt mỏi hoặc thiếu năng lượng
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+5. Chán ăn hoặc ăn quá nhiều
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+6. Cảm thấy bản thân tồi tệ, cho rằng mình là người thất bại hoặc thất vọng về bản thân và gia đình
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+7. Khó tập trung vào một việc gì đó, ví dụ như đọc báo hay xem tivi
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+8. Di chuyển hoặc nói năng quá chậm chạp khiến người khác chú ý hoặc ngược lại - quá lo lắng, bồn chồn nên đi lại quá nhiều
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày
+9. Nghĩ rằng mình chết đi sẽ tốt hơn, hoặc làm đau hay tổn thương cơ thể
+4
+0 = Hầu như không
+1 = Một vài ngày
+2 = Hơn nửa số thời gian
+3 = Gần như mỗi ngày

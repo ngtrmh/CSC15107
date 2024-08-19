@@ -1,0 +1,11 @@
+5
+Không có hoặc rất nhẹ
+0–2
+Nhẹ
+3–5
+Trung bình
+6–9
+Nặng
+10–14
+Rất nặng
+15–20

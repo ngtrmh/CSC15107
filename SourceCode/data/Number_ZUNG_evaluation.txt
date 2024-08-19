@@ -1,0 +1,11 @@
+5
+Không lo âu
+0-40
+Lo âu mức độ nhẹ
+41-50
+Lo âu mức độ vừa
+51–60
+Lo âu mức độ nặng
+61–70
+Lo âu mức độ rất nặng
+71-80
