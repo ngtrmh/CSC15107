@@ -7,5 +7,6 @@
 - Mô phỏng áp dụng các kỹ thuật DP vào khảo sát sức khỏe tâm thần.
 - Khảo sát độ sai lệch dữ liệu sau khi thêm nhiễu.
 - Ngôn ngữ và công nghệ sử dụng: Python, HTML, CSS, JavaScript
+- Demo: [youtu.be/9QxBGN59JYE](https://youtu.be/9QxBGN59JYE)
 -----------------------------------------------------------------------------------------------------
 Vui lòng không đăng tải lại. Để biết thêm thông tin, vui lòng liên hệ: nguyentrangmaihanh.work@gmail.com
