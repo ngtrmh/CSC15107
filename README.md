@@ -6,6 +6,5 @@
 - Phân tích việc áp dụng các kỹ thuật Differential Privacy (DP) thông qua Randomized Response và Laplace noise.
 - Mô phỏng áp dụng các kỹ thuật DP vào khảo sát sức khỏe tâm thần.
 - Khảo sát độ sai lệch dữ liệu sau khi thêm nhiễu.
-- Demo: [youtu.be/9QxBGN59JYE](https://youtu.be/9QxBGN59JYE)
 -----------------------------------------------------------------------------------------------------
-Vui lòng không đăng tải lại. Để biết thêm thông tin, vui lòng liên hệ: nguyentrangmaihanh.work@gmail.com
+For more information, please contact: nguyentrangmaihanh.work@gmail.com
